@@ -1,0 +1,9 @@
+.............NOTES on JS......
+DOM-----works with html&css in form of document
+function----
+variable---
+import/export module----
+
+to change a format using js, use document.getElementByTagName, getElementById, etc...(they are methods)
+numbers known as integers
+alphabet known as strings
